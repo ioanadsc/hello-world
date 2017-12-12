@@ -1,4 +1,4 @@
 # hello-world
-Hello World!
+Hello, Sugar Labs!
 
-I'm just getting started with GitHub and so far it's all good.
+I'm Ioana Năstasă and I enjoy learning new things. I think GitHub is a lot of fun.
